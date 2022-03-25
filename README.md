@@ -8,15 +8,7 @@ Projeto: Desenvolvimento de Aplicação Web Front-End
 
 O trabalho realiza a criação de um portal de notícias com entrevistas, fotos, vídeos e os bastidores do esporte. O principal objetivo é atualizar crianças e jovens sobre as principais notícias dos esportes pelos quais elas mais se interessam a fim de estimular a prática esportiva e um estilo de vida mais saudável, reduzindo-se, assim, a probabilidade de problemas futuros, tanto físicos quanto psicológicos.
 
-## Integrantes
 
-* Felipe Augusto Rocha da Silva
-* Gabriel Garcia
-* Leonardo Filter Friedrich
-
-## Orientador
-
-* Joyce Christina De Paiva Carvalho
 
 ## Instruções de utilização
 
